@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '網站: https://mdecd2023.github.io/2b-pj1bg19/content/index.html \n 倉儲: https://github.com/mdecd2023/2b-pj1bg19 \n 組員:41023238黃嘉偉、41023246劉昱辰', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '網站: https://mdecd2023.github.io/2b-pj1bg19/content/index.html \n 倉儲: https://github.com/mdecd2023/2b-pj1bg19 \n 組員:41023238黃嘉偉、41023246劉昱辰 \n \n', 'tags': '', 'url': 'About.html'}, {'title': 'BubbleRob', 'text': '', 'tags': '', 'url': 'BubbleRob.html'}]};
